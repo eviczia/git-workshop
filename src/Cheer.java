@@ -1,6 +1,5 @@
 public class Cheer {
-
-    public static void Cheer(String teamName, String shout) {
-        System.out.println(teamName + shout);
+    public static void Cheer(String param) {
+        System.out.println("Cheer for param " + param);
     }
 }
