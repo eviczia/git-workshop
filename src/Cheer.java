@@ -1,6 +1,6 @@
 public class Cheer {
 
-    public static void Cheer(){
-        System.out.println("Back End Team");
+    public static void Cheer(String teamName){
+        System.out.println(teamName);
     }
 }
