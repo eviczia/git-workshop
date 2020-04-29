@@ -1,5 +1,6 @@
 public class Count {
-    public static void count(int year) {
-        System.out.println(year);
+    
+    public static void count() {
+        System.out.println(11);
     }
 }
