@@ -1,7 +1,6 @@
 public class Future {
 
-    public static void future(String param1, String param2) {
-        System.out.println(param1 + param2);
-
+    public static void future(String parameter) {
+        System.out.println("Your future looks like" + parameter);
     }
 }
